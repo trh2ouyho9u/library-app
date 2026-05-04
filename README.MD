@@ -22,8 +22,7 @@ Random Task Generator - это графическое приложение на 
 
 ### Клонирование репозитория
 ```bash
-git clone 
-cd random-task-generator
+git clone https://github.com/trh2ouyho9u/library-app
 ```
 
 Запуск приложения
